@@ -1,0 +1,16 @@
+
+.imagencampaña img{
+    width: 50%;
+    
+}
+.nav-link{
+    color: black;
+}
+.footer li a, a:visited{
+    display: block;
+    color: black;
+}
+.footer li a:hover{
+    color: rgb(2,105,129);
+}
+
